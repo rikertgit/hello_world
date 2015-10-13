@@ -1,2 +1,5 @@
-# hello_world
-first_repository
+#hello_world
+
+First repository on GitHub
+
+I Love :coffee:
